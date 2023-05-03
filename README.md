@@ -1,11 +1,15 @@
 <doctype html>
     <head>
+        <meta charset="UTF-8"/>
         <!-- 
-            comment for meta 
-            comment for meta 
-            comment for meta 
-            comment for meta 
+             لظهور الكتابة بالعربي
         -->
+        <meta name="description" content=""/>
+        <!-- لظهور الوصف في الصفحة الخارجية تحت اللينك -->
+        <meta name="copyright" content=""/>
+        <!-- الموقع لديه حقوق فكرية -->
+        <meta name="author" content=""/>
+        <!-- اسم كاتب المحتوي -->
         <title> My First Page</title>
             <meta name="description" content="This Is Description For My First Page">
             <style></style>
